@@ -1,0 +1,25 @@
+              precision    recall  f1-score   support
+
+     Class 0       1.00      0.98      0.99        82
+     Class 1       1.00      0.99      0.99        96
+     Class 2       1.00      0.99      1.00       125
+     Class 3       0.99      1.00      1.00       127
+     Class 4       1.00      1.00      1.00        99
+     Class 5       1.00      0.99      0.99        75
+     Class 6       1.00      1.00      1.00        90
+
+   micro avg       1.00      0.99      1.00       694
+   macro avg       1.00      0.99      1.00       694
+weighted avg       1.00      0.99      1.00       694
+ samples avg       1.00      0.99      0.99       694
+
+Epoch 1/10, Loss: 0.0504, Accuracy: 0.6186, F1-score: 0.2097
+Epoch 2/10, Loss: 0.0359, Accuracy: 0.7328, F1-score: 0.2418
+Epoch 3/10, Loss: 0.0279, Accuracy: 0.7977, F1-score: 0.3140
+Epoch 4/10, Loss: 0.0229, Accuracy: 0.8466, F1-score: 0.3470
+Epoch 5/10, Loss: 0.0196, Accuracy: 0.8860, F1-score: 0.4427
+Epoch 6/10, Loss: 0.0169, Accuracy: 0.9109, F1-score: 0.5518
+Epoch 7/10, Loss: 0.0151, Accuracy: 0.9267, F1-score: 0.6423
+Epoch 8/10, Loss: 0.0129, Accuracy: 0.9479, F1-score: 0.7683
+Epoch 9/10, Loss: 0.0113, Accuracy: 0.9619, F1-score: 0.8395
+Epoch 10/10, Loss: 0.0104, Accuracy: 0.9627, F1-score: 0.8490
